@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, together with Fernandez, Stein and Lo (2012)."
+title: "Open Megafund: a cancer megafund simulator on open drug success rates"
+authors:
+  - family-names: Prasad
+    given-names: Jitesh K
+  - name: Udgam Labs
+repository-code: "https://github.com/udgamlabs/open-megafund"
+url: "https://udgamlabs.com/blog/open-megafund"
+license: GPL-3.0-or-later
+references:
+  - type: article
+    title: "Commercializing biomedical research through securitization techniques"
+    authors:
+      - family-names: Fernandez
+        given-names: Jose-Maria
+      - family-names: Stein
+        given-names: Roger M.
+      - family-names: Lo
+        given-names: Andrew W.
+    journal: "Nature Biotechnology"
+    volume: 30
+    issue: 10
+    start: 964
+    end: 975
+    year: 2012
